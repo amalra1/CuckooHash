@@ -1,2 +1,2 @@
-# CuckooHashImplementation
-C language implementation of the famous CuckooHash
+# CuckooHash
+Cuckoo Hash abstract data type example implemented in C for college.
